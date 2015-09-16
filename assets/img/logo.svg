@@ -1,0 +1,9 @@
+<svg id="svg2" xmlns="http://www.w3.org/2000/svg" height="54.133" width="162.53" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 162.52621 54.132851">
+ <g id="layer1" transform="translate(-22.409 -928.21)">
+  <rect id="logobg" transform="matrix(1 0 -.69126 .72261 0 0)" height="74.041" width="109.87" stroke="#000" y="1285" x="962.57" stroke-width=".87259"/>
+  <rect id="logobar" fill-rule="evenodd" transform="matrix(1 0 -.70455 .70966 0 0)" height="61.839" width="19.128" y="1315.5" x="1030.4" fill="#fff"/>
+  <use id="use3367" xlink:href="#logobar" transform="translate(23.878 .0000041703)" height="100%" width="100%" y="0" x="0"/>
+  <use id="use3371" xlink:href="#logobar" transform="matrix(1.0104 0 .65918 .33476 -668.79 650.21)" height="100%" width="100%" y="0" x="0" stroke-width="1.7195"/>
+  <use id="use3375" xlink:href="#logobar" transform="translate(47.757 .0000041703)" height="100%" width="100%" y="0" x="0"/>
+ </g>
+</svg>
